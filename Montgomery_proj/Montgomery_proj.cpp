@@ -84,8 +84,8 @@ int main()
         //for (auto i : vec_of_random_moduls)
         //    cout << i<<"\n";
         //cout << "\n\n\n\n\n";
-        unsigned long long int x = 123456789;
-        unsigned long long int y = 456;
+        unsigned long long int x = 73000000;
+        unsigned long long int y = 100000;
 
         vector< unsigned long long int> vec_of_x_moduls = random_vec_var(x, vec_of_random_moduls);
         vector< unsigned long long int> vec_of_y_moduls = random_vec_var(y, vec_of_random_moduls);
